@@ -4,6 +4,8 @@ testing if website works
 
 [file1](file1.md)
 
+[file2](file2.md)
+
 [folder1/file1](folder1/file1.md)
 
 
