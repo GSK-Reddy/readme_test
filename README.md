@@ -2,6 +2,8 @@
 
 testing if website works
 
+[file1](file1.md)
+
 [folder1/file1](folder1/file1.md)
 
 
